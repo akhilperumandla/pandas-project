@@ -1,0 +1,15 @@
+,student name,subject 1,subject 2,subject 3,Total marks,grade,Pass/Fail
+0,Surya,45,33,45,123, A+,PASS
+1,vinay,45,34,47,126,A+,PASS
+2,vamshi,34,38,30,102,A,PASS
+3,aditya,33,39,35,107,A,PASS
+4,vikas,36,36,45,117,A,PASS
+5,anil,47,23,40,110,A,PASS
+6,akhil,46,34,43,123,A+,PASS
+7,subhash,44,30,27,101,A,PASS
+8,kanthi,12,12,36,60,C,FAIL
+9,kavya,23,13,30,66,C,FAIL
+10,prem varma,18,15,29,62,C,FAIL
+11,praveen,40,18,24,82,B,PASS
+12,naveen,34,23,23,80,B,PASS
+13,kyathi,23,22,34,79,C+,PASS
